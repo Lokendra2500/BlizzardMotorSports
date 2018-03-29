@@ -1,0 +1,13 @@
+mat-sidenav-content.content {
+  padding: 0 !important;
+  bottom: 35px;
+  top: 0px;
+}
+
+#hero {
+  background-image: url('../../../assets/files/uploads/blizzard-hero.png');
+}
+
+.logo h2{
+  background-image: url('../../../assets/img/logo.jpg');
+}

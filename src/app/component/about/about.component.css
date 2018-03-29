@@ -1,0 +1,25 @@
+.mat-tab-label, .mat-tab-label-content {
+  height: 48px;
+  padding: 0 15px;
+  cursor: pointer;
+  box-sizing: border-box;
+  opacity: .6;
+  min-width: 160px;
+  text-align: center;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  white-space: nowrap;
+  position: relative;
+}
+
+.tab-label {
+  font-size: 15px;
+  padding-left: 5px;
+  margin-top: 4px;
+}
+
+mat-tab-group{
+  margin-bottom: 3% !important;
+  padding: 20px;
+}
